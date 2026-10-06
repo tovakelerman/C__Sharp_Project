@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalTest", "DalTest\DalTest.csproj", "{2E98CEE4-6E89-4DBA-A1D5-00B0F2252B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalFacade", "DalFacade\DalFacade.csproj", "{22452C34-73AD-4E8E-8897-183AD5DE874F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalList", "DalList\DalList.csproj", "{AD86EAAA-D9E7-496B-9CA6-D89E529D19FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E98CEE4-6E89-4DBA-A1D5-00B0F2252B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E98CEE4-6E89-4DBA-A1D5-00B0F2252B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E98CEE4-6E89-4DBA-A1D5-00B0F2252B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E98CEE4-6E89-4DBA-A1D5-00B0F2252B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22452C34-73AD-4E8E-8897-183AD5DE874F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22452C34-73AD-4E8E-8897-183AD5DE874F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22452C34-73AD-4E8E-8897-183AD5DE874F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22452C34-73AD-4E8E-8897-183AD5DE874F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD86EAAA-D9E7-496B-9CA6-D89E529D19FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD86EAAA-D9E7-496B-9CA6-D89E529D19FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD86EAAA-D9E7-496B-9CA6-D89E529D19FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD86EAAA-D9E7-496B-9CA6-D89E529D19FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A39B4B-ED69-4181-958D-3AE530310337}
+	EndGlobalSection
+EndGlobal
